@@ -64,4 +64,4 @@ This project is licensed under the MIT License. We believe the truth should be f
 
 "Evolution is rarely comfortable. The labor of the past was the investment required for the freedom of the present."
 
-View the Dashboard | Join the Discussion
+
