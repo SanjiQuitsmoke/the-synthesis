@@ -30,4 +30,4 @@ License: MIT (Free to share, monetize, and build upon)
 
 "Evolution is rarely comfortable. The labor of the past was the investment required for the freedom of the present."
 
-View the Dashboard | Join the Discussion
+[View the Dashboard](https://SanjiQuitsmoke.github.io/the-synthesis/) | [Join the Discussion](https://github.com/SanjiQuitsmoke/the-synthesis/discussions)
